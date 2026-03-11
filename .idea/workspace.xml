@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b564f2b-7617-47d0-a97e-e94c8ccc0132" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dev101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heritage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lumbda/age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lumbda/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lumbda/lap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lumbda/reste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lumbda/somme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie10/stagaire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie11/voiture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie12/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie13/heritage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie14/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie15/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie16/gestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie17/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie18/calculk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie18/comparaison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie18/fer-rouge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie18/fonction2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie18/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie18/stagaire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie19/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie19/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie19/opiration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie20/plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie7/dectionner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie8/chaine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie9/fichier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire5/droit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire5/gauche.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire5/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire5/rondom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire5/tri_bulles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/affich.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/dicalg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/fact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/paw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/puiss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/puissonce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/somme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/trier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sire6/vide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/calculs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/exemle1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/exemple2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/exemple3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/exemple4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/exemple5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/exemple6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siré3/jours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/calcule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/carré.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/perimétre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/pice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/somme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/surfase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série1/total.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/année.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/calcul_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/clalcul_t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/comparisen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série2/poids_idéal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/divisible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex9b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex9c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/ex9d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/exemple1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/exemple1_m2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/exemple2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/exemple3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/série4/impairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilal_chouichou_DD101/index.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/serie11/voiture.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sire5/list.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32stQDQxXwaZEZdHxCIr1xTnlOp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python..executor&quot;: &quot;Run&quot;,
+    &quot;Python.affich.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bilal_chouichou.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bilal_chouichou_dd101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chaine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clalcul_t.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comparaison.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comparisen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dectionner.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dicalg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.divisible.executor&quot;: &quot;Run&quot;,
+    &quot;Python.division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.droit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple1_m2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemple6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fer-rouge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fichier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fonction2D.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gauche.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gestion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.gestion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heritage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.impairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.index (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jours.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lop (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.opiration (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.opiration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perimétre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pice.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.poids_idéal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.procedure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.puiss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.puissonce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rondom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.somme (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.somme.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stagaire.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tableur.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tri_bulles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vide.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voiture.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/PyCharmMiscProject/dev101&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PyCharmMiscProject\dev101" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PyCharmMiscProject\dev101\serie19" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.plus">
+    <configuration name="bilal_chouichou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bilal_chouichou" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilal_chouichou/bilal_chouichou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bilal_chouichou_dd101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bilal_chouichou_DD101" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilal_chouichou_DD101/bilal_chouichou_dd101.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projectpoo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projectpoo/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/serie20" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serie20/plus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plus" />
+        <item itemvalue="Python.bilal_chouichou_dd101" />
+        <item itemvalue="Python.bilal_chouichou" />
+        <item itemvalue="Python.lop" />
+        <item itemvalue="Python.index (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b564f2b-7617-47d0-a97e-e94c8ccc0132" name="Changes" comment="" />
+      <created>1758221089543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758221089543</updated>
+      <workItem from="1758221090562" duration="6287000" />
+      <workItem from="1758539500895" duration="2155000" />
+      <workItem from="1758652218213" duration="25439000" />
+      <workItem from="1758904940593" duration="2914000" />
+      <workItem from="1759141381606" duration="2352000" />
+      <workItem from="1759144293295" duration="83000" />
+      <workItem from="1759144501519" duration="24000" />
+      <workItem from="1759144533725" duration="1224000" />
+      <workItem from="1759146489525" duration="45000" />
+      <workItem from="1759146541004" duration="3060000" />
+      <workItem from="1759749564882" duration="3653000" />
+      <workItem from="1759842568801" duration="1379000" />
+      <workItem from="1760011227303" duration="1239000" />
+      <workItem from="1760284457316" duration="925000" />
+      <workItem from="1760305389090" duration="4869000" />
+      <workItem from="1760355974859" duration="1857000" />
+      <workItem from="1760615340090" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/série2/comparisen.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/index.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lumbda/lap.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dev101$exemple1.coverage" NAME="exemple1 Coverage Results" MODIFIED="1760351867813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série4" />
+    <SUITE FILE_PATH="coverage/dev101$jours.coverage" NAME="jours Coverage Results" MODIFIED="1760011987291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/siré3" />
+    <SUITE FILE_PATH="coverage/dev101$exemple4.coverage" NAME="exemple4 Coverage Results" MODIFIED="1759752791831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/siré3" />
+    <SUITE FILE_PATH="coverage/dev101$comparisen.coverage" NAME="comparisen Coverage Results" MODIFIED="1759148162409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/text_python$somme.coverage" NAME="somme Coverage Results" MODIFIED="1758800054256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série1" />
+    <SUITE FILE_PATH="coverage/dev101$division.coverage" NAME="division Coverage Results" MODIFIED="1759147762579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/dev101$impairs.coverage" NAME="impairs Coverage Results" MODIFIED="1760351583450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série4" />
+    <SUITE FILE_PATH="coverage/dev101$exemple1_m2.coverage" NAME="exemple1_m2 Coverage Results" MODIFIED="1760351856221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série4" />
+    <SUITE FILE_PATH="coverage/text_python$poids_idéal.coverage" NAME="poids_idéal Coverage Results" MODIFIED="1758802466696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/dev101$poids_idéal.coverage" NAME="poids_idéal Coverage Results" MODIFIED="1760011982539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/dev101$exemple2.coverage" NAME="exemple2 Coverage Results" MODIFIED="1760351876392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série4" />
+    <SUITE FILE_PATH="coverage/dev101$exemple5.coverage" NAME="exemple5 Coverage Results" MODIFIED="1759752778661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/siré3" />
+    <SUITE FILE_PATH="coverage/text_python$test.coverage" NAME="test Coverage Results" MODIFIED="1758738520470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text_python$comparisen.coverage" NAME="comparisen Coverage Results" MODIFIED="1759142908607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/text_python$perimétre.coverage" NAME="perimétre Coverage Results" MODIFIED="1758812355040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série1" />
+    <SUITE FILE_PATH="coverage/text_python$division.coverage" NAME="division Coverage Results" MODIFIED="1758801169351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/dev101$test.coverage" NAME="test Coverage Results" MODIFIED="1760284558874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dev101$exemple3.coverage" NAME="exemple3 Coverage Results" MODIFIED="1760351457303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série4" />
+    <SUITE FILE_PATH="coverage/dev101$function.coverage" NAME="function Coverage Results" MODIFIED="1759147596401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+    <SUITE FILE_PATH="coverage/text_python$modulo.coverage" NAME="modulo Coverage Results" MODIFIED="1758800634930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série1" />
+    <SUITE FILE_PATH="coverage/text_python$calcule.coverage" NAME="calcule Coverage Results" MODIFIED="1758800897817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série1" />
+    <SUITE FILE_PATH="coverage/dev101$exemple6.coverage" NAME="exemple6 Coverage Results" MODIFIED="1760357824929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/siré3" />
+    <SUITE FILE_PATH="coverage/dev101$divisible.coverage" NAME="divisible Coverage Results" MODIFIED="1760351741167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série4" />
+    <SUITE FILE_PATH="coverage/dev101$pice.coverage" NAME="pice Coverage Results" MODIFIED="1759145684660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série1" />
+    <SUITE FILE_PATH="coverage/text_python$clalcul_t.coverage" NAME="clalcul_t Coverage Results" MODIFIED="1759143659279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/série2" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+
+mahdi | reda | COMMERCE | 24 | 5.8
+haddad | ayoub | ID | 22 | 10.83
+azizi | aya | GESTION | 24 | 9.0
+alami | zara | ID | 23 | 9.75
+alami | achraf | GESTION | 20 | 14.0
+azizi | zara | GESTION | 24 | 14.5
+achan | ayoub | TDI | 21 | 11.67
+achan | zara | TDM | 22 | 12.2
+haddad | ayoub | TDI | 23 | 13.5
+azizi | aya | TDM | 22 | 6.6
+haddad | ayoub | COMMERCE | 21 | 8.5
+mahdi | zara | ID | 22 | 12.67
+fadili | zara | ID | 21 | 12.75
+achan | aya | ID | 22 | 6.25
+haddad | zara | COMMERCE | 20 | 7.5
+bahdar | reda | TDM | 24 | 9.25
+mahdi | mohamed | TDI | 23 | 9.5
