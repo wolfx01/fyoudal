@@ -5,105 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b564f2b-7617-47d0-a97e-e94c8ccc0132" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dev101.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heritage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lumbda/age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lumbda/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lumbda/lap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lumbda/reste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lumbda/somme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie10/stagaire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie11/voiture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie12/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie13/heritage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie14/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie15/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie16/gestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie17/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie18/calculk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie18/comparaison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie18/fer-rouge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie18/fonction2D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie18/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie18/stagaire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie19/ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie19/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie19/opiration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie20/plus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie7/dectionner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie8/chaine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serie9/fichier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire5/droit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire5/gauche.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire5/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire5/rondom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire5/tri_bulles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/affich.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/dicalg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/fact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/paw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/puiss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/puissonce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/somme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/trier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sire6/vide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/calculs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/exemle1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/exemple2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/exemple3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/exemple4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/exemple5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/exemple6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/siré3/jours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/calcule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/carré.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/modulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/perimétre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/pice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/somme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/surfase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série1/total.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/année.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/calcul_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/clalcul_t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/comparisen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série2/poids_idéal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/divisible.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex9b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex9c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/ex9d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/exemple1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/exemple1_m2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/exemple2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/exemple3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/série4/impairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bilal_chouichou_DD101/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lop.py" beforeDir="false" afterPath="$PROJECT_DIR$/lop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serie20/plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/serie20/plus.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,107 +45,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python..executor&quot;: &quot;Run&quot;,
-    &quot;Python.affich.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bilal_chouichou.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bilal_chouichou_dd101.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calcule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chaine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clalcul_t.executor&quot;: &quot;Run&quot;,
-    &quot;Python.client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comparaison.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comparisen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.date.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dectionner.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dicalg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.divisible.executor&quot;: &quot;Run&quot;,
-    &quot;Python.division.executor&quot;: &quot;Run&quot;,
-    &quot;Python.droit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex9b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex9c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex9d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple1_m2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemple6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fer-rouge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fichier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fonction2D.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gauche.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gestion (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.gestion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.heritage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.impairs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.index (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.index (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.index.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jours.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lop (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.lop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modulo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.opiration (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.opiration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paw.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perimétre.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pice.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.plus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.poids_idéal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.procedure.executor&quot;: &quot;Run&quot;,
-    &quot;Python.projet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.puiss.executor&quot;: &quot;Run&quot;,
-    &quot;Python.puissonce.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rondom.executor&quot;: &quot;Run&quot;,
-    &quot;Python.somme (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.somme.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stagaire.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tableur.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tri_bulles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vide.executor&quot;: &quot;Run&quot;,
-    &quot;Python.voiture.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/PyCharmMiscProject/dev101&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python..executor": "Run",
+    "Python.affich.executor": "Run",
+    "Python.bilal_chouichou.executor": "Run",
+    "Python.bilal_chouichou_dd101.executor": "Run",
+    "Python.calcule.executor": "Run",
+    "Python.calculk.executor": "Run",
+    "Python.chaine.executor": "Run",
+    "Python.clalcul_t.executor": "Run",
+    "Python.client.executor": "Run",
+    "Python.comparaison.executor": "Run",
+    "Python.comparisen.executor": "Run",
+    "Python.date.executor": "Run",
+    "Python.dectionner.executor": "Run",
+    "Python.dicalg.executor": "Run",
+    "Python.divisible.executor": "Run",
+    "Python.division.executor": "Run",
+    "Python.droit.executor": "Run",
+    "Python.ex (1).executor": "Run",
+    "Python.ex.executor": "Run",
+    "Python.ex10.executor": "Run",
+    "Python.ex14.executor": "Run",
+    "Python.ex15.executor": "Run",
+    "Python.ex4.executor": "Run",
+    "Python.ex5.executor": "Run",
+    "Python.ex6.executor": "Run",
+    "Python.ex7.executor": "Run",
+    "Python.ex8.executor": "Run",
+    "Python.ex9.executor": "Run",
+    "Python.ex9b.executor": "Run",
+    "Python.ex9c.executor": "Run",
+    "Python.ex9d.executor": "Run",
+    "Python.exemple1.executor": "Run",
+    "Python.exemple1_m2.executor": "Run",
+    "Python.exemple2.executor": "Run",
+    "Python.exemple3.executor": "Run",
+    "Python.exemple4.executor": "Run",
+    "Python.exemple5.executor": "Run",
+    "Python.exemple6.executor": "Run",
+    "Python.fer-rouge.executor": "Run",
+    "Python.fichier.executor": "Run",
+    "Python.fonction2D.executor": "Debug",
+    "Python.function.executor": "Run",
+    "Python.gauche.executor": "Run",
+    "Python.gestion (1).executor": "Run",
+    "Python.gestion.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.heritage.executor": "Run",
+    "Python.impairs.executor": "Run",
+    "Python.index (1).executor": "Run",
+    "Python.index (2).executor": "Run",
+    "Python.index.executor": "Run",
+    "Python.jours.executor": "Run",
+    "Python.lap.executor": "Run",
+    "Python.list (1).executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.lop (1).executor": "Run",
+    "Python.lop.executor": "Run",
+    "Python.modulo.executor": "Run",
+    "Python.opiration (1).executor": "Run",
+    "Python.opiration.executor": "Run",
+    "Python.paw.executor": "Run",
+    "Python.perimétre.executor": "Run",
+    "Python.pice.executor": "Run",
+    "Python.pice.py.executor": "Run",
+    "Python.plus.executor": "Run",
+    "Python.poids_idéal.executor": "Run",
+    "Python.procedure.executor": "Run",
+    "Python.projet.executor": "Run",
+    "Python.puiss.executor": "Run",
+    "Python.puissonce.executor": "Run",
+    "Python.random.executor": "Run",
+    "Python.rondom.executor": "Run",
+    "Python.somme (1).executor": "Run",
+    "Python.somme.executor": "Run",
+    "Python.stagaire.executor": "Run",
+    "Python.tableur.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.tri_bulles.executor": "Run",
+    "Python.trier.executor": "Run",
+    "Python.vide.executor": "Run",
+    "Python.voiture.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/PyCharmMiscProject/dev101",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\PyCharmMiscProject\dev101" />
@@ -248,29 +155,7 @@
       <recent name="C:\Users\Lenovo\PyCharmMiscProject\dev101\serie19" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plus">
-    <configuration name="bilal_chouichou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="text_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bilal_chouichou" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilal_chouichou/bilal_chouichou.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lop">
     <configuration name="bilal_chouichou_dd101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="text_python" />
       <option name="ENV_FILES" value="" />
@@ -293,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fer-rouge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="text_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,11 +187,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projectpoo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/serie18" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projectpoo/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serie18/fer-rouge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lop" />
+        <item itemvalue="Python.fer-rouge" />
+        <item itemvalue="Python.hello" />
         <item itemvalue="Python.plus" />
         <item itemvalue="Python.bilal_chouichou_dd101" />
-        <item itemvalue="Python.bilal_chouichou" />
-        <item itemvalue="Python.lop" />
-        <item itemvalue="Python.index (2)" />
       </list>
     </recent_temporary>
   </component>
